@@ -1,7 +1,8 @@
 # Gauplus
 
 ## 📦 GitHub Repository
-🔗 [bp0lr/gauplus (GitHub)](github.com/bp0lr/gauplus)
+🔗 [gauplus](https://github.com/bp0lr/gauplus)
+
 
 ## 🔍 Overview
 gauplus is an enhanced version of **gau (GetAllUrls)** that fetches URLs from multiple sources, including:
